@@ -1,0 +1,19 @@
+.env
+.vscode
+__pycache__
+handlers/__pycache__
+env
+alembic.ini
+
+
+./alembic.ini
+
+
+# Website
+web
+node_modules
+
+ssh-key-2023-09-23.key
+./vps.txt
+key.json
+vps.txt
